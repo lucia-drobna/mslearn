@@ -6,7 +6,7 @@ Lucia Drobná
 
 ## Learning path
 
-Web Development for Beginners
+Analýza údajov v službe Power BI
 
 ### Odkaz
 
